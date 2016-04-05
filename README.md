@@ -4,7 +4,7 @@
 
 OBD is a basic application for the connection with your ELM 327. 
 - Detection data in real time. 
-- Update data NOT delete ( comparison)
+- Update data NOT delete (thought to comparison)
 
 
 
