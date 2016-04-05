@@ -2,6 +2,9 @@
 
 <img src="http://www.katadoryu.it/images/TakeATrip/Logo/logo.png" width="100" height="100" />
 
+OBD is a basic application for the connection with your ELM 327. 
+- Detection data in real time. 
+- Update data NOT delete ( comparison)
 
 
 
